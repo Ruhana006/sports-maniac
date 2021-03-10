@@ -10,6 +10,7 @@
 }
 .detail-area p{
     color: white;
+    margin-top: 80px;
 }
 .icons{
     display: flex;

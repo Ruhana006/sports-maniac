@@ -15,7 +15,7 @@ const Home = () => {
     return (
         <div>
             <div className="title">
-                <h1><span >SPORTS MANIAC</span></h1>
+                <h1>SOCCER  MANIAC</h1>
             </div>
             <div className="container">
                 <div className="row">
