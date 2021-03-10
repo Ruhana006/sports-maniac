@@ -1,0 +1,13 @@
+body{
+    background-color:rgb(6, 58, 58) ;
+}
+
+.title{
+    color: white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-style:italic;
+    font: weight 700px;
+    height:200px;
+}

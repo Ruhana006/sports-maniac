@@ -1,0 +1,12 @@
+.exploreBtn{
+    background-image: linear-gradient(darkcyan, rgb(170, 233, 233));
+    color: white;
+    border: 0;
+    width: 150px;
+    font-weight: 700;    
+}
+.card{
+    align-items: center;
+    text-align: center;
+    
+}
